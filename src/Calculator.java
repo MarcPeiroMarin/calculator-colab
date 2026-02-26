@@ -48,5 +48,6 @@ System.out.println(" add | sub | mul | div");
 System.out.println("Ejemplos:");
 System.out.println(" java Calculator add 2 3");
 System.out.println(" java Calculator div 10 2");
+System.out.println("Código de salida: 0 OK, 1 error, 2 uso incorrecto");
 }
 }
